@@ -62,4 +62,4 @@ For any inquiries or licensing requests, you can reach me at:
 
 ---
 
-© 2023 by Warith AL Maawali, Sultanate of Oman, Muscat. All rights reserved.
+© 2024 by Warith AL Maawali, Sultanate of Oman, Muscat. All rights reserved.
