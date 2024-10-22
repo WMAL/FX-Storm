@@ -1,0 +1,6 @@
+Date,Time,Pair,Entry,Actual,T/P,S/L,Ex price,Delay,Deal,Level
+24/11/05,4:10:56 AM,USD/CAD,1.1734,1.172,True,false,1.1711,60 m,Sell,r1
+24/11/05,8:26:02 PM,USD/CAD,1.1724,1.1717,false,True,1.1732,60m,sell,pp
+25/11/05,4:43:56 AM,USD/CAD,1.1718,1.1728,True,False,1.1731,60m,Buy,pp
+25/11/05,7:07:01 AM,USD/CAD,1.1718,1.171,false,True,1.1727,60m,sell,pp
+25/11/05,10:15:37 AM,USD/CAD,1.1682,1.1681,True,False,1.1692,60m,Buy,s4

@@ -1,0 +1,4 @@
+Date,Time,Pair,Entry,Actual,T/P,S/L,Ex price,Delay,Deal,Level
+25/11/05,3:08:40 AM,EUR/USD,1.1818,1.1812,True,false,1.1750,60 m,Sell,r1
+25/11/05,10:12:06 AM,EUR/USD,1.1751,1.1756,False,True,1.1740,60m,Buy,s3
+25/11/05,1:03:53 PM,EUR/USD,1.1740,1.1733,True,false,1.1712,60 m,Sell,s4

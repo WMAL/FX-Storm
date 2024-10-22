@@ -1,0 +1,5 @@
+Date,Time,Pair,Entry,Actual,T/P,S/L,Ex price,Delay,Deal,Level
+23/11/05,1:16:30 AM,USD/JPY,118.70,118.67,False,True,118.38,60m,Buy,
+24/11/05,6:50:11 PM,USD/JPY,118.69,118.67,True,False,119.11,60m,Buy,s1
+25/11/05,3:21:30 AM,USD/JPY,119.14,119.23,True,False,119.35,60m,Buy,r3
+25/11/05,10:00:01 AM,USD/JPY,119.35,119.36,false,True,119.51,60m,sell,r5

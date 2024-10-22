@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+
+
+<quotes timestamp="19:43:45">
+
+<currency id="0" symbol="USD/JPY" bid="114.43" ask="114.46" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="1" symbol="USD/CHF" bid="1.2228" ask="1.2232" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="2" symbol="GBP/USD" bid="1.8481" ask="1.8485" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="3" symbol="EUR/USD" bid="1.279" ask="1.2793" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="4" symbol="GBP/JPY" bid="211.47" ask="211.56" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="5" symbol="AUD/USD" bid="0.7418" ask="0.7422" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="6" symbol="USD/CAD" bid="1.1169" ask="1.1173" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="7" symbol="USD/NOK" bid="6.2189" ask="6.2239" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="8" symbol="NZD/USD" bid="0.6077" ask="0.6082" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="9" symbol="USD/SEK" bid="7.1939" ask="7.1989" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="10" symbol="USD/ZAR" bid="7.1605" ask="7.1855" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="11" symbol="AUD/CAD" bid="0.8284" ask="0.8294" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="12" symbol="AUD/JPY" bid="84.88" ask="84.93" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="13" symbol="CHF/JPY" bid="93.54" ask="93.59" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="14" symbol="EUR/AUD" bid="1.7234" ask="1.7244" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="15" symbol="EUR/CAD" bid="1.4285" ask="1.4293" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="16" symbol="EUR/CHF" bid="1.5642" ask="1.5646" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="17" symbol="EUR/GBP" bid="0.6919" ask="0.6922" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="18" symbol="EUR/JPY" bid="146.37" ask="146.41" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="19" symbol="GBP/CHF" bid="2.2602" ask="2.261" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="20" symbol="USD/THB" bid="38.1" ask="38.15" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="21" symbol="NZD/JPY" bid="69.53" ask="69.6" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="22" symbol="EUR/PLN" bid="4.0614" ask="4.0714" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="23" symbol="EUR/HUF" bid="282.7" ask="283.7" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="24" symbol="AUD/CHF" bid="0.9071" ask="0.9079" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="25" symbol="AUD/NZD" bid="1.2197" ask="1.2212" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="26" symbol="AUD/SGD" bid="1.1739" ask="1.1749" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="27" symbol="CAD/CHF" bid="1.0944" ask="1.0952" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="28" symbol="CAD/JPY" bid="102.41" ask="102.48" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="29" symbol="CHF/NOK" bid="5.0845" ask="5.0895" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="30" symbol="CHF/SEK" bid="5.8817" ask="5.8867" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="31" symbol="GBP/CAD" bid="2.064" ask="2.0655" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="32" symbol="GBP/DKK" bid="10.7762" ask="10.7812" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="33" symbol="GBP/HUF" bid="408.21" ask="410.21" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="34" symbol="GBP/NOK" bid="11.489" ask="11.509" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="35" symbol="GBP/NZD" bid="3.0392" ask="3.0412" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="36" symbol="GBP/PLN" bid="5.8661" ask="5.8861" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="37" symbol="GBP/SEK" bid="13.2911" ask="13.3111" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="38" symbol="GBP/SGD" bid="2.9244" ask="2.9264" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="39" symbol="GBP/AUD" bid="2.4903" ask="2.4918" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="40" symbol="NOK/SEK" bid="1.1468" ask="1.1668" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="41" symbol="NZD/CAD" bid="0.6786" ask="0.6796" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="42" symbol="NZD/CHF" bid="0.743" ask="0.744" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="43" symbol="NZD/DKK" bid="3.5434" ask="3.5464" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="44" symbol="NZD/SEK" bid="4.3706" ask="4.3786" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="45" symbol="NZD/SGD" bid="0.9617" ask="0.9627" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="46" symbol="USD/CZK" bid="22.273" ask="22.303" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="47" symbol="USD/DKK" bid="5.8302" ask="5.8332" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="48" symbol="USD/HUF" bid="221.15" ask="221.65" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="49" symbol="USD/MXN" bid="11.3445" ask="11.3495" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="50" symbol="USD/PLN" bid="3.1742" ask="3.1842" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="51" symbol="USD/SGD" bid="1.5824" ask="1.5831" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="52" symbol="EUR/SEK" bid="9.2028" ask="9.2078" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="53" symbol="USD/KRW" bid="1025.0" ask="1030.0" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="54" symbol="EUR/KRW" bid="1312.83" ask="1315.83" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="55" symbol="JPY/KRW" bid="8.9531" ask="9.0031" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="56" symbol="SGD/JPY" bid="72.26" ask="72.36" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="57" symbol="THB/JPY" bid="2.9993" ask="3.0043" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="58" symbol="EUR/ZAR" bid="9.1628" ask="9.1878" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="59" symbol="EUR/NOK" bid="7.9556" ask="7.9606" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+<currency id="60" symbol="USD/HKD" bid="7.7653" ask="7.7668" high="n/a" low="n/a" bidTrend="0" askTrend="0"/>
+</quotes>
+

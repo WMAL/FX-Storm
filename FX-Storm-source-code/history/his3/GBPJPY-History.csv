@@ -1,0 +1,5 @@
+Date,Time,Pair,Entry,Actual,T/P,S/L,Ex price,Delay,Deal,Level
+23/11/05,3:36:46 AM,GBP/JPY,204.25,204.24,False,True,203.96,60m,Buy,pp
+24/11/05,4:31:02 AM,GBP/JPY,204.64,204.59,false,True,205.00,60m,sell,r1
+24/11/05,9:51:18 PM,GBP/JPY,204.76,204.83,True,False,205.36,60m,Buy,r1
+25/11/05,2:11:34 AM,GBP/JPY,205.34,205.33,False,True,205.10,60m,Buy,r2

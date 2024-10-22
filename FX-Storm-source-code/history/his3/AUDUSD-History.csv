@@ -1,0 +1,7 @@
+Date,Time,Pair,Entry,Actual,T/P,S/L,Ex price,Delay,Deal,Level
+24/11/05,5:33:45 AM,AUD/USD,0.7384,0.7384,false,True,0.7395,60m,sell,r1
+24/11/05,11:06:12 AM,AUD/USD,0.7393,0.7395,false,True,0.7401,60m,sell,r2
+24/11/05,6:55:11 PM,AUD/USD,0.7384,0.7391,False,True,0.7372,60m,Buy,r1
+25/11/05,12:04:49 AM,AUD/USD,0.7362,0.7367,False,True,0.7353,60m,Buy,s3
+25/11/05,9:05:09 AM,AUD/USD,0.7362,0.7351,false,True,0.7370,60m,sell,s3
+25/11/05,2:44:51 PM,AUD/USD,0.7345,0.7348,True,False,0.7362,60m,Buy,s5

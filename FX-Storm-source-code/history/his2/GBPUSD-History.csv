@@ -1,0 +1,5 @@
+Date,Time,Pair,Entry,Actual,T/P,S/L,Ex price,Delay,Deal,Level
+22/11/05,3:47:06 AM,GBP/USD,1.7149,1.7163,False,True,1.7118,60m,Buy,s1
+22/11/05,7:56:57 AM,GBP/USD,1.7117,1.7122,False,True,1.7105,60m,Buy,s2
+22/11/05,10:48:02 AM,GBP/USD,1.7098,1.7092,false,True,1.7122,60m,sell,s3
+22/11/05,7:13:02 PM,GBP/USD,1.7218,1.7224,False,True,1.7203,60m,Buy,r2
